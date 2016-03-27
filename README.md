@@ -1,2 +1,2 @@
 # Sapphire-Database
-Developer
+Developer - Sin [Diego de sousa]
